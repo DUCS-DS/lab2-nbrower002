@@ -6,11 +6,11 @@ Lab 2 for Spring 25 Data Structures
 Referring to the algorithm you implemented in the function **monotonic** in the
 file **edit_me.py** and assuming that the input list has length **N**,
 
-* the big-O worst-case complexity is PUT YOUR ANSWER HERE, and
-* the big-O best-case complexity is PUT YOUR ANSWER HERE.
+* the big-O worst-case complexity is O(N) and
+* the big-O best-case complexity is O(1).
 
 Referring to the code block below,
-* the big-O worst-case complexity of the function **search** is PUT YOUR ANSWER HERE.
+* the big-O worst-case complexity of the function **search** is O(log N).
   ```python
   def search(lst, key):
 
